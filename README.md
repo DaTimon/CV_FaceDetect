@@ -148,26 +148,3 @@
 	性别识别：keras + tensorflow
 	
 	文字识别：Tesseract OCR
-
-
-### TODO ###
-
-换脸——待完善
-
-眼睛移动方向检测——待完善
-
-Dlib性能优化方案
-
-Dlib模型训练方法
-
-Tesseract模型训练方法
-
-# 贡献者名单（特别感谢）	
-
-[archersmind](https://github.com/archersmind)	
-	
-[rishab-sharma](https://github.com/rishab-sharma)
-
-# 微信打赏
-
-![微信打赏](http://icdn.apigo.cn/myinfo/wchat-pay.png)
